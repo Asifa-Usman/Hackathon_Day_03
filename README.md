@@ -1,4 +1,5 @@
-Furniture Hub - Day 3: API Integration and Data Migration
+Day 3: API Integration and Data Migration -Furniture Hub (General-Ecommerce)
+
 Welcome to Furniture Hub, a general e-commerce marketplace for furniture! This project is part of the Hackathon 2025, and Day 3 focuses on API Integration and Data Migration.
 
 Day 3 Overview
